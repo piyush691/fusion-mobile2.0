@@ -1,6 +1,6 @@
 # fusion
 
-A new Flutter application.
+A Flutter application that contain login and dashboard page.
 
 ## Getting Started
 
